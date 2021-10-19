@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T23:47:10.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="bx8jCytzpajBYIVM9J-0" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T23:47:50.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="8fav1MyJh6H7DljikgWp" version="15.5.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3233" dy="2379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="700" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-3" value="Prescription" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="446.64" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vy6ilOuVidCGGi7q7_XE-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yz6IS8zPpt9pPw2eYfW_-4" target="vy6ilOuVidCGGi7q7_XE-8">
           <mxGeometry relative="1" as="geometry" />
@@ -57,13 +57,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-8" value="Med_exp_date" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="1430" y="276.64" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yz6IS8zPpt9pPw2eYfW_-9" target="yz6IS8zPpt9pPw2eYfW_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-9" value="Med_name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="1190" y="286.64" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yz6IS8zPpt9pPw2eYfW_-10" target="yz6IS8zPpt9pPw2eYfW_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -179,25 +179,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-28" value="Med_pres_date" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="1390" y="526.64" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yz6IS8zPpt9pPw2eYfW_-29" target="yz6IS8zPpt9pPw2eYfW_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-29" value="Med_image" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="1450" y="386.64" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v4oZxIlsPHixJW86-UHJ-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yz6IS8zPpt9pPw2eYfW_-30" target="yz6IS8zPpt9pPw2eYfW_-3" edge="1">
+        <mxCell id="vy6ilOuVidCGGi7q7_XE-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yz6IS8zPpt9pPw2eYfW_-30" target="yz6IS8zPpt9pPw2eYfW_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-30" value="Med_freq [string-dropdown]" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="1070" y="535" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yz6IS8zPpt9pPw2eYfW_-31" target="yz6IS8zPpt9pPw2eYfW_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yz6IS8zPpt9pPw2eYfW_-31" value="Med_description" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="1230" y="596.64" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yz6IS8zPpt9pPw2eYfW_-32" target="yz6IS8zPpt9pPw2eYfW_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="620" y="740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-32" value="appointment 어떻게 잡는거?&lt;br&gt;- patient 혼자 시간 정할 수 없잖아" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="360" width="180" height="30" as="geometry" />
+          <mxGeometry x="1700" y="40" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="v4oZxIlsPHixJW86-UHJ-33" target="yz6IS8zPpt9pPw2eYfW_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -235,14 +235,16 @@
         <mxCell id="v4oZxIlsPHixJW86-UHJ-36" value="Receives" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v4oZxIlsPHixJW86-UHJ-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="v4oZxIlsPHixJW86-UHJ-41" target="yz6IS8zPpt9pPw2eYfW_-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v4oZxIlsPHixJW86-UHJ-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="yz6IS8zPpt9pPw2eYfW_-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1606.727272727273" y="263.36727272727296" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-41" value="Gives" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-43" value="conversations:&amp;nbsp;&lt;br&gt;db에 있는 아무 닥터한테나 챗 걸 수 있나요 (only from patients who has appointments with the doctor)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="290" width="560" height="30" as="geometry" />
+          <mxGeometry x="1700" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v4oZxIlsPHixJW86-UHJ-44" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="-50" width="120" height="80" as="geometry" />
